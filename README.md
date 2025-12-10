@@ -10,3 +10,4 @@ Primeira atividade do módulo:<br/>
 Introdução e ambientalização na ferramenta Unity: Hierarquia, cena e layout.<br/>
 
 ![Preview da Cena](scene.png)
+![Preview da Cena](scene.gif)
