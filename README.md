@@ -1,7 +1,7 @@
 # Mentorama-Unity-Beginner
 
-Curso: Profissão Desenvolvedor de Games em Unity
-Módulo: Unity Iniciante
-Versão do Unity: 2020.2.6f1
+Curso: **Profissão Desenvolvedor de Games em Unity**<br/>
+Módulo: **Unity Iniciante**<br/>
+Versão do Unity: **2021.3.1f1**<br/>
 
 ## Módulo 1 #
