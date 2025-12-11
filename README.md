@@ -9,5 +9,7 @@ Versão do Unity: **2021.3.1f1**<br/>
 Primeira atividade do módulo:<br/>
 Introdução e ambientalização na ferramenta Unity: Hierarquia, cena e layout.<br/>
 
-![Preview da Cena](scene.png)
-![Preview da Cena](scene.gif)
+<p align="center">
+  <img src="scene.png" width="400px" />
+  <img src="scene.gif" width="478px" />
+</p>
