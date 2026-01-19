@@ -14,7 +14,7 @@ O objetivo principal foi transformar um cenário estático, o Template 3D Sample
 
 ## Módulo 2
 Segunda atividade do módulo:<br/>
-Trabalho com objetos na cena: Iluminação, câmera e prefab.
+Trabalho com objetos na cena: Iluminação, câmera e prefab.<br/>
 Os arquivos da cena podem ser encontrados em: [Module02](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module02)<br/>
 Assets: Pacote 3D por Academia Unity Desenvolvimento de Jogos - GameDev – YouTube<br/>
 Este projeto foi desenvolvido com foco em praticar iluminação, criação de prefabs e posicionamento de câmera na Unity. O cenário foi montado para explorar composição visual, realce de elementos 3D e iluminação, bem como organização da cena.
