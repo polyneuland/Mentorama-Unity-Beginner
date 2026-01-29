@@ -25,5 +25,6 @@ Este projeto foi desenvolvido com o objetivo de praticar os principais fundament
 Terceira atividade do módulo:<br/>
 Introdução ao C#: Fundamentos iniciais da programação.<br/>
 Os arquivos da cena podem ser encontrados em: [Module03](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module03)<br/>
+O objetivo do projeto é demonstrar lógica de programação e organização de código, priorizando clareza e entendimento dos fundamentos, como arrays, laços de repetição, estruturas condicionais e funções. O script armazena as notas dos alunos em um array, percorre cada aluno para classificar seu desempenho (Aprovado, Recuperação ou Reprovado) e calcula a média da turma.
 
 <img src="/Files/Module03/Console.png" alt="project"/>
