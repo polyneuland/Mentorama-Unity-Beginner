@@ -20,3 +20,10 @@ Assets: Pacote 3D por Academia Unity Desenvolvimento de Jogos - GameDev – YouT
 Este projeto foi desenvolvido com o objetivo de praticar os principais fundamentos de construção de cenas na Unity, com foco em iluminação, posicionamento de câmera e criação de prefabs. 
 
 <img src="/Files/Module02/Area_Light.png" alt="project"/>
+
+## Módulo 3
+Terceira atividade do módulo:<br/>
+Introdução ao C#: Fundamentos iniciais da programação.<br/>
+Os arquivos da cena podem ser encontrados em: [Module03](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module03)<br/>
+
+<img src="/Files/Module03/Console.png" alt="project"/>
