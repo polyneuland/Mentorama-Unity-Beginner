@@ -37,3 +37,5 @@ O projeto foi desenvolvido com o objetivo de praticar a interatividade com compo
 - Button: Botões de início, volta e configurações;
 - Dropdown: Seleção de dificuldade;
 - Toggle: Ativação ou desativação da música.
+
+<img src="/Files/Module04/" alt="project"/>
