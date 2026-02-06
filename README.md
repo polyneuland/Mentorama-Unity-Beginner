@@ -38,4 +38,4 @@ O projeto foi desenvolvido com o objetivo de praticar a interatividade com compo
 - Dropdown: Seleção de dificuldade;
 - Toggle: Ativação ou desativação da música.
 
-<img src="/Files/Module04/" alt="project"/>
+<img src="/Files/Module04/Inicial.png" alt="project"/>
