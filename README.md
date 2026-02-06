@@ -32,4 +32,8 @@ O objetivo do projeto é demonstrar lógica de programação e organização de 
 ## Módulo 4
 Quarta atividade do módulo:<br/>
 Conhecendo a Unity UI: Principais componentes da interface.<br/>
-Os arquivos da cena podem ser encontrados em:
+Os arquivos da cena podem ser encontrados em: [Module04](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module04)<br/>
+O projeto foi desenvolvido com o objetivo de praticar a interatividade com componentes de UI, como Button, Text, Panel, Canvas, Dropdown e Toggle.
+- Button: Botões de início, volta e configurações;
+- Dropdown: Seleção de dificuldade;
+- Toggle: Ativação ou desativação da música.
