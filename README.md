@@ -44,3 +44,11 @@ O projeto foi desenvolvido com o objetivo de praticar a interatividade com compo
 Quinta atividade do módulo:<br/>
 Workshop em C#: Desenvolver um quiz.<br/>
 Os arquivos da cena podem ser encontrados em: [Module05](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module05)<br/>
+Projeto desenvolvido com o objetivo de criar um quiz interativo com interface customizada e feedback dinâmico ao jogador. O jogo apresenta:
+- Alternativas de múltipla escolha;
+- Sistema de pontuação;
+- Recorde salvo localmente (PlayerPrefs);
+- Mensagens finais personalizadas conforme desempenho;
+- Powerup: Ao clicar no coração, remove as alternativas incorretas.
+
+<img src="/Files/Module05/Game.gif" alt="project"/>
