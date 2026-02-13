@@ -39,3 +39,8 @@ O projeto foi desenvolvido com o objetivo de praticar a interatividade com compo
 - Toggle: Ativação ou desativação da música.
 
 <img src="/Files/Module04/Inicial.png" alt="project"/>
+
+## Módulo 5
+Quinta atividade do módulo:<br/>
+Workshop em C#: Desenvolver um quiz.<br/>
+Os arquivos da cena podem ser encontrados em: [Module05](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module05)<br/>
