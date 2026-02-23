@@ -52,3 +52,8 @@ Projeto desenvolvido com o objetivo de criar um quiz interativo com interface cu
 - Powerup: Ao clicar no coração, remove as alternativas incorretas.
 
 <img src="/Files/Module05/Game.gif" alt="project"/>
+
+## Módulo 6
+Sexta atividade do módulo:<br/>
+Gerenciamento de cenas e inputs:<br/>
+Os arquivos da cena podem ser encontrados em: [Module06](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module06)<br/>
