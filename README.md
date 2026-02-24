@@ -57,3 +57,5 @@ Projeto desenvolvido com o objetivo de criar um quiz interativo com interface cu
 Sexta atividade do módulo:<br/>
 Gerenciamento de cenas e inputs:<br/>
 Os arquivos da cena podem ser encontrados em: [Module06](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module06)<br/>
+
+<img src="/Files/Module06/Adobe Express - Carro.gif" alt="project"/>
