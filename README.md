@@ -56,7 +56,8 @@ Projeto desenvolvido com o objetivo de criar um quiz interativo com interface cu
 
 ## Módulo 6
 Sexta atividade do módulo:<br/>
-Gerenciamento de cenas e inputs: Desenvolver um projeto onde o player se move até o destino final, reiniciando sua cena.<br/>
+Gerenciamento de cenas e inputs: Administrar cenas através de código e como manusear inputs do mouse e teclado.<br/>
 Os arquivos da cena podem ser encontrados em: [Module06](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module06)<br/>
+Desenvolver um projeto onde o player se move até o destino final, reiniciando sua cena.
 
 <img src="/Files/Module06/Adobe Express - Carro.gif" alt="project"/>
