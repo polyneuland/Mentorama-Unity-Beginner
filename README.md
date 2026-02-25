@@ -2,7 +2,8 @@
 
 Curso: **Profissão Desenvolvedor de Games em Unity**<br/>
 Módulo: **Unity Iniciante**<br/>
-Versão do Unity: **2020.2.6f1**
+Versão do Unity: **2020.2.6f1**<br/>
+Acessar os arquivos na pasta: **Files**
 
 ## Módulo 1
 Primeira atividade do módulo:<br/>
@@ -55,7 +56,7 @@ Projeto desenvolvido com o objetivo de criar um quiz interativo com interface cu
 
 ## Módulo 6
 Sexta atividade do módulo:<br/>
-Gerenciamento de cenas e inputs:<br/>
+Gerenciamento de cenas e inputs: Desenvolver um projeto onde o player se move até o destino final, reiniciando sua cena.<br/>
 Os arquivos da cena podem ser encontrados em: [Module06](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module06)<br/>
 
 <img src="/Files/Module06/Adobe Express - Carro.gif" alt="project"/>
