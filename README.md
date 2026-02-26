@@ -60,4 +60,4 @@ Gerenciamento de cenas e inputs: Administrar cenas através de código e como ma
 Os arquivos da cena podem ser encontrados em: [Module06](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module06)<br/>
 Desenvolver um projeto onde o player se move até o destino final, reiniciando sua cena.
 
-<img src="/Files/Module06/Adobe Express - Carro.gif" alt="project"/>
+<img src="/Files/Module06/Carro.gif" alt="project"/>
