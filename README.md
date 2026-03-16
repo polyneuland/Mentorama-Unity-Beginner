@@ -61,3 +61,11 @@ Os arquivos da cena podem ser encontrados em: [Module06](https://github.com/poly
 A proposta consiste em um sistema onde o jogador controla um objeto até um ponto de destino, aplicando movimentação baseada em input. Ao atingir o objetivo final, a cena é reiniciada clicando no botão.
 
 <img src="/Files/Module06/Carro.gif" alt="project"/>
+
+## Módulo 7
+Sétima atividade do módulo:<br/>
+Conhecendo os mecanismos da física: Física, colliders e raycasts.<br/>
+Os arquivos da cena podem ser encontrados em: [Module07](https://github.com/polyneuland/Mentorama-Unity-Beginner/tree/main/Files/Module07)<br/>
+Este projeto implementa uma mecânica de movimentação de personagem baseada em cliques do mouse, comum em jogos de visão superior (Top-Down) como Dota 2 ou League of Legends. O sistema utiliza a técnica de Raycasting para converter coordenadas da tela em pontos no mundo 3D e gerenciar o deslocamento do personagem.
+
+<img src="/Files/Module07/Raycast.gif" alt="project"/>
